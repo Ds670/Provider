@@ -1,0 +1,74 @@
+*{
+  
+padding: 0px; margin: 0px;
+
+}
+
+html, body{
+  background: /storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20231009-WA0002.jpg;
+
+font-family: Roboto, sans-serif, arial;
+
+font-size:14px;
+
+color: #242424;
+
+}
+
+.container{
+
+width: 1200px;
+
+margin: 0px auto;
+
+}
+
+.main-section{
+  width: 100%;
+  float: left;
+  padding: 50px 0px 40px 0px;
+}
+.heading{
+  font-size: 22px;
+  font-weight: 500;
+  border-bottom: 1px solid #ff5722;
+  color: orange
+}
+.logo {
+
+width:100%;
+
+}
+nav{
+
+width:1200px;
+
+float:left;
+
+background: #ff5722;
+
+padding:15px 0px;
+
+}
+
+nav a{
+
+color:#fff;
+
+text-decoration:none;
+
+font-size: 17px;
+
+border-right: 1px solid #ffc3c3;
+
+padding: 2px 20px;
+
+}
+.slider img {
+  width: 30%;
+  height: 30%;
+  }
+  im{
+    border-radius: 50px;
+  }
+
